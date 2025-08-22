@@ -183,6 +183,10 @@ body {
   justify-content: center;
 }
 
+.card.cupom p{
+  color: #000;
+}
+
 .card.cupom .info {
   text-align: center;
 }
