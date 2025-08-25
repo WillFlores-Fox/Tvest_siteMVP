@@ -164,6 +164,10 @@ body {
   margin-right: 8px;
 }
 
+.card .info p {
+  color: black;
+}
+
 /* Lojas */
 .secao.lojas .card img {
   height: 120px;
